@@ -1,0 +1,4 @@
+RENCANA FITUR WEBSITE DEEPVISION VERSI 2
+
+- Menambahkan fitur chatbot AI
+- Hasil prediksi juga akan di implementasikan dengan GradCam
