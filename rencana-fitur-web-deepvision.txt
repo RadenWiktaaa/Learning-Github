@@ -1,4 +1,6 @@
 RENCANA FITUR TAMBAHAN WEBSITE DEEPVISION
 
-- Hasil prediksi oleh AI di buat preview dengan bar sesuai probabilitas prediksi penyakit
+- Hasil prediksi oleh AI di buat preview dengan bar sesuai persentase probabilitas prediksi penyakit
 - Hasil prediksi juga akan di implementasikan dengan Grad-Cam
+- Authentikasi dengan firebase auth untuk login dan register user pro dan admin
+- Menyimpan data hasil prediksi di firestore database
