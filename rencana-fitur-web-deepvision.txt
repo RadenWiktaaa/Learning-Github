@@ -1,4 +1,4 @@
 RENCANA FITUR TAMBAHAN WEBSITE DEEPVISION
 
 - Hasil prediksi oleh AI di buat preview dengan bar sesuai probabilitas prediksi penyakit
-- Hasil prediksi juga akan di implementasikan dengan GradCam
+- Hasil prediksi juga akan di implementasikan dengan Grad-Cam
